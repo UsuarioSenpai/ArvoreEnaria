@@ -3,7 +3,7 @@
 
 O Gerenciador de Arquivos Simulator é um simulador de gerenciador de arquivos e diretórios sem interface gráfica.
 
-## Installation
+## Instalação
 
 Em windowns, abra a pasta "Arvore" e depois a pasta "build" e executar o arquivo "Arvore.exe"
 
