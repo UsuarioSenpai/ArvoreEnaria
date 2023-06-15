@@ -1,4 +1,4 @@
-# ArvoreEnaria
+# Arvore N-árias
  Gerenciador de Arquivos Simulator
 
 O Gerenciador de Arquivos Simulator é um simulador de gerenciador de arquivos e diretórios sem interface gráfica.
